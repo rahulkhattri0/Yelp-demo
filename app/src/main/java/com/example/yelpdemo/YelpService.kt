@@ -14,5 +14,5 @@ import retrofit2.http.Query
 //location is its location
 interface YelpService {
     @GET("businesses/search")
-    fun searchRestaurant(@Header("Authorization")authKey:String,@Query("term") name: String, @Query("location") location: String): Call<Any>
+    fun searchRestaurant(@Header("Authorization")authKey:String,@Query("term") name: String, @Query("location") location: String): Call<YelpSearchResult>
 }

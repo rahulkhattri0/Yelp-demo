@@ -11,7 +11,7 @@ data class YelpSearchResult(
 data class YelpBusiness(
     @SerializedName("name") val name:String,
     @SerializedName("rating") val rating:Float,
-    @SerializedName("price") val price:Float,
+    @SerializedName("price") val price:String,
     @SerializedName("review_count") val number_of_reviews:Int,
     @SerializedName("image_url") val image_url:String,
     @SerializedName("categories") val categories:List<YelpCategory>,

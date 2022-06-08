@@ -1,5 +1,6 @@
-package com.example.yelpdemo
+package com.example.yelpdemo.apiservice
 
+import com.example.yelpdemo.YelpSearchResult
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Header
@@ -14,5 +15,5 @@ import retrofit2.http.Query
 //location is its location
 interface YelpService {
     @GET("businesses/search")
-    fun searchRestaurant(@Header("Authorization")authKey:String,@Query("term") name: String, @Query("location") location: String): Call<Any>
+    fun searchRestaurant(@Header("Authorization")authKey:String,@Query("term") name: String, @Query("location") location: String): Call<YelpSearchResult>
 }

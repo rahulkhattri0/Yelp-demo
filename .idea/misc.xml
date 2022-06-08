@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/YelpDemo/app/src/main/res/layout/activity_main.xml" value="0.14010416666666667" />
         <entry key="..\:/YelpDemo/app/src/main/res/layout/edit_text.xml" value="0.10104166666666667" />
+        <entry key="..\:/YelpDemo/app/src/main/res/layout/restaurant_name.xml" value="0.14010416666666667" />
       </map>
     </option>
   </component>

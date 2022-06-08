@@ -3,12 +3,7 @@
 ### (Learning how to use retrofit to make api calls using this application )
 ## Screenshots 📱:
 <table>
-  <tr>
-    <td>City entered: San Francisco</td>
-     <td>Restaurants in San Francisco</td>
-    <td>City entered:Kyoto</td>
-     <td>Restaurants in Kyoto</td>
-  </tr>
+
   <tr>
     <td><img src="https://user-images.githubusercontent.com/72620481/172649025-666dc899-3fa3-421d-b2d3-51348a489304.jpeg" width=270 height=480></td>
     <td><img src="https://user-images.githubusercontent.com/72620481/172649303-3e686268-9d9c-460e-9fa2-22e3e735923c.jpeg" width=270 height=480></td>

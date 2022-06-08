@@ -17,4 +17,5 @@
   </tr>
  </table>
  
-<p>This a very basic and quick project and I would extend this in the future.</p>
+<p>This a very basic and quick project that makes an api call and gets details of different restaurants back.
+  I would extend this project in the future.</p>

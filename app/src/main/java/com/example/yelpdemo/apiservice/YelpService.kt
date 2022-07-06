@@ -1,5 +1,6 @@
-package com.example.yelpdemo
+package com.example.yelpdemo.apiservice
 
+import com.example.yelpdemo.YelpSearchResult
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Header

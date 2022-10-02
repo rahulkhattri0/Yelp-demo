@@ -1,7 +1,7 @@
 # Yelp-demo
 ### A very simple application that calls the Yelp API using Retrofit.
 ### (Learning how to use retrofit to make api calls using this application )
-## Screenshots 📱:
+## Screenshots 📱:❤
 <table>
 
   <tr>
@@ -12,4 +12,4 @@
  </table>
  
 <p>This a very basic and quick project that makes an api call and gets details of different restaurants back.
-  I would extend this project in the future.</p>
+  I would extend this project in the future.😉</p>

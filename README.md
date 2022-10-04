@@ -1,6 +1,6 @@
-# Yelp-demo
+# Yelp-Demo
 ### A very simple application that calls the Yelp API using Retrofit.
-### (Learning how to use retrofit to make api calls using this application )
+### (Learning how to use retrofit to make api calls using this application. )
 ## Screenshots 📱:❤
 <table>
 
